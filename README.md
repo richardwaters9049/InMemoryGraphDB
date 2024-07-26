@@ -1,4 +1,4 @@
-# In-Memory Graph Databaseeeeee
+# In-Memory Graph Database
 
 ## Introduction to Graph Databases
 
