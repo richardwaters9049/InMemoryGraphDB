@@ -25,10 +25,10 @@ Performance Considerations: Implementing and optimizing data structures for effe
 
 ## Key Features
 
-Add/Remove Nodes: Functions to manage nodes in the graph.
-Add/Remove Edges: Functions to manage relationships between nodes.
-Query Neighbors: Retrieve neighbors of a specific node.
-Check Existence: Verify if nodes and edges exist.
+* Add/Remove Nodes: Functions to manage nodes in the graph.
+* Add/Remove Edges: Functions to manage relationships between nodes.
+* Query Neighbors: Retrieve neighbors of a specific node.
+* Check Existence: Verify if nodes and edges exist.
 
 ## Project Structure
 
