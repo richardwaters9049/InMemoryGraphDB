@@ -1,5 +1,7 @@
-In-Memory Graph Database
-Introduction to Graph Databases
+#In-Memory Graph Database
+
+#Introduction to Graph Databases
+
 Graph databases are designed to handle and query relationships between entities. Unlike traditional relational databases that use tables and rows, graph databases use nodes (entities) and edges (relationships) to model data. This structure is particularly useful for applications involving complex relationships, such as:
 
 Social Networks: Modeling users and their connections.
@@ -8,13 +10,14 @@ Fraud Detection: Identifying suspicious patterns and relationships.
 Network Analysis: Understanding complex networks and dependencies.
 The graph model allows for efficient querying and manipulation of relationships, making it an ideal choice for applications requiring deep insights into interconnected data.
 
-Project Overview
+#Project Overview
 This project involves creating a simple in-memory graph database in C++. The aim is to implement core functionalities such as adding and removing nodes and edges, and querying the graph. The project demonstrates:
 
 Graph Management: How to manage nodes and edges in a graph.
 C++ Implementation: Using modern C++ features to handle data efficiently.
 Performance Considerations: Implementing and optimizing data structures for effective graph operations.
-Key Features
+
+#Key Features
 Add/Remove Nodes: Functions to manage nodes in the graph.
 Add/Remove Edges: Functions to manage relationships between nodes.
 Query Neighbors: Retrieve neighbors of a specific node.
