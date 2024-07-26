@@ -20,6 +20,7 @@ This project involves creating a simple in-memory graph database in C++. The aim
 
 Graph Management: How to manage nodes and edges in a graph.
 C++ Implementation: Using modern C++ features to handle data efficiently.
+
 Performance Considerations: Implementing and optimizing data structures for effective graph operations.
 
 ## Key Features
@@ -33,8 +34,7 @@ Check Existence: Verify if nodes and edges exist.
 
 The project is organized into the following directories and files:
 
-makefile
-Copy code
+```makefile
 InMemoryGraphDB/
 ├── include/
 │ └── graph.h # Header file defining the Graph class
@@ -43,36 +43,39 @@ InMemoryGraphDB/
 │ └── main.cpp # Main program to test Graph functionality
 ├── tests/ # (Optional) Directory for unit tests
 ├── CMakeLists.txt # CMake configuration file for building the project
+```
 include/graph.h: Contains the declaration of the Graph class and its methods.
 src/graph.cpp: Contains the implementation of the Graph class methods.
 src/main.cpp: Demonstrates the use of the Graph class with example operations.
 tests/: Placeholder for unit tests (if added in the future).
 CMakeLists.txt: Configures the build process using CMake.
-Building and Running the Project
+
+## Building and Running the Project
+
 To build and run the project, follow these steps:
 
 Create a Build Directory and Navigate Into It
 
-sh
-Copy code
+```sh
 mkdir build
 cd build
 Run CMake to Configure the Project
+```
 
-sh
-Copy code
+```sh
 cmake ..
 Build the Project
+```
 
-sh
-Copy code
+```sh
 make
 Run the Executable
+```
 
-sh
-Copy code
+```sh
 ./InMemoryGraphDB
 Usage
+```
 After running the executable, the program will demonstrate the following functionalities:
 
 Adding nodes and edges.
