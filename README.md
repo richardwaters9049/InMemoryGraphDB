@@ -44,11 +44,6 @@ InMemoryGraphDB/
 ├── tests/ # (Optional) Directory for unit tests
 ├── CMakeLists.txt # CMake configuration file for building the project
 ```
-include/graph.h: Contains the declaration of the Graph class and its methods.
-src/graph.cpp: Contains the implementation of the Graph class methods.
-src/main.cpp: Demonstrates the use of the Graph class with example operations.
-tests/: Placeholder for unit tests (if added in the future).
-CMakeLists.txt: Configures the build process using CMake.
 
 ## Building and Running the Project
 
