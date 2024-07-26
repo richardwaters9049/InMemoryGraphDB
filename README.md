@@ -75,7 +75,7 @@ Run the Executable
 
 After running the executable, the program will demonstrate the following functionalities:
 
-⋅⋅* Adding nodes and edges.
-⋅⋅* Removing nodes and edges.
-⋅⋅* Querying the existence of nodes and edges.
-⋅⋅* Retrieving and displaying neighbors of a node.
+⋅⋅*Adding nodes and edges.
+⋅⋅*Removing nodes and edges.
+⋅⋅*Querying the existence of nodes and edges.
+⋅⋅*Retrieving and displaying neighbors of a node.
