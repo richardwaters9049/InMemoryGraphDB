@@ -55,19 +55,24 @@ Create a Build Directory and Navigate Into It
 mkdir build
 cd build
 ```
+
 Run CMake to Configure the Project
 ```sh
 cmake ..
 ```
+
 Build the Project
 ```sh
 make
 ```
+
 Run the Executable
 ```sh
 ./InMemoryGraphDB
-Usage
 ```
+
+## Usage
+
 After running the executable, the program will demonstrate the following functionalities:
 
 Adding nodes and edges.
