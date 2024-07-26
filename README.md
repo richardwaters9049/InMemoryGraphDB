@@ -25,10 +25,10 @@ Performance Considerations: Implementing and optimizing data structures for effe
 
 ## Key Features
 
-* Add/Remove Nodes: Functions to manage nodes in the graph.
-* Add/Remove Edges: Functions to manage relationships between nodes.
-* Query Neighbors: Retrieve neighbors of a specific node.
-* Check Existence: Verify if nodes and edges exist.
+- Add/Remove Nodes: Functions to manage nodes in the graph.
+- Add/Remove Edges: Functions to manage relationships between nodes.
+- Query Neighbors: Retrieve neighbors of a specific node.
+- Check Existence: Verify if nodes and edges exist.
 
 ## Project Structure
 
@@ -57,16 +57,19 @@ cd build
 ```
 
 Run CMake to Configure the Project
+
 ```sh
 cmake ..
 ```
 
 Build the Project
+
 ```sh
 make
 ```
 
 Run the Executable
+
 ```sh
 ./InMemoryGraphDB
 ```
@@ -75,7 +78,9 @@ Run the Executable
 
 After running the executable, the program will demonstrate the following functionalities:
 
-* Adding nodes and edges.
-* Removing nodes and edges.
-* Querying the existence of nodes and edges.
-* Retrieving and displaying neighbors of a node.
+- Adding nodes and edges.
+- Removing nodes and edges.
+- Querying the existence of nodes and edges.
+- Retrieving and displaying neighbors of a node.
+
+![Graph Database Screenshot](images/graph-database.png)
