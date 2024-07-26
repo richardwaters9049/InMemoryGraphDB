@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/richyrose/documents/GitHub/C++/InMemoryGraphDB/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/richyrose/documents/GitHub/C++/InMemoryGraphDB/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/InMemoryGraphDB.dir/src/main.cpp.o -c /Users/richyrose/documents/GitHub/C++/InMemoryGraphDB/src/main.cpp",
+  "file": "/Users/richyrose/documents/GitHub/C++/InMemoryGraphDB/src/main.cpp",
+  "output": "CMakeFiles/InMemoryGraphDB.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/richyrose/documents/GitHub/C++/InMemoryGraphDB/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/richyrose/documents/GitHub/C++/InMemoryGraphDB/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/InMemoryGraphDB.dir/src/graph.cpp.o -c /Users/richyrose/documents/GitHub/C++/InMemoryGraphDB/src/graph.cpp",
+  "file": "/Users/richyrose/documents/GitHub/C++/InMemoryGraphDB/src/graph.cpp",
+  "output": "CMakeFiles/InMemoryGraphDB.dir/src/graph.cpp.o"
+}
+]
