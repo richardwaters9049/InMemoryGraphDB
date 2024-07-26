@@ -54,19 +54,16 @@ Create a Build Directory and Navigate Into It
 ```sh
 mkdir build
 cd build
-Run CMake to Configure the Project
 ```
-
+Run CMake to Configure the Project
 ```sh
 cmake ..
-Build the Project
 ```
-
+Build the Project
 ```sh
 make
-Run the Executable
 ```
-
+Run the Executable
 ```sh
 ./InMemoryGraphDB
 Usage
