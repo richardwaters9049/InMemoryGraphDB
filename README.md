@@ -83,4 +83,6 @@ After running the executable, the program will demonstrate the following functio
 - Querying the existence of nodes and edges.
 - Retrieving and displaying neighbors of a node.
 
+## Graph Database Screenshot of Output
+
 ![Graph Database Screenshot](images/graph-database.png)
