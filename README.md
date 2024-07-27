@@ -16,36 +16,37 @@ The graph model allows for efficient querying and manipulation of relationships,
 
 ## Node and Edges
 
-In a graph database, nodes are the fundamental units that represent entities or objects. 
+In a graph database, nodes are the fundamental units that represent entities or objects.
 
-Each node can hold data in the form of key-value pairs, similar to how a row in a relational database might have multiple columns. 
+Each node can hold data in the form of key-value pairs, similar to how a row in a relational database might have multiple columns.
 
 Nodes are connected to each other through edges, which represent relationships.
 
 ## Key Characteristics of Nodes:
 
-  1. **Identity**: Each node has a unique identifier that distinguishes it from other nodes in the graph.
-  2. **Properties**: Nodes can have properties, which are key-value pairs. These properties store information about the node, such as attributes or characteristics.
-                     For example, a node representing a person might have properties like name, age, and email.
-  3. **Labels**: Nodes can have one or more labels, which are used to group nodes into sets.
-                 Labels provide a way to categorize nodes, making it easier to query and manage them.
-                 For instance, nodes representing people might be labeled as Person, while nodes representing books might be labeled as Book.
+1. **Identity**: Each node has a unique identifier that distinguishes it from other nodes in the graph.
+2. **Properties**: Nodes can have properties, which are key-value pairs. These properties store information about the node, such as attributes or characteristics.
+   For example, a node representing a person might have properties like name, age, and email.
+3. **Labels**: Nodes can have one or more labels, which are used to group nodes into sets.
+   Labels provide a way to categorize nodes, making it easier to query and manage them.
+   For instance, nodes representing people might be labeled as Person, while nodes representing books might be labeled as Book.
 
 ## Examples of Nodes:
 
 Here are some examples of nodes in different contexts:
 
 1. **Social Network**: Person node with properties like `name`, `age`, `location`, and `email`.
-2. **E-commerce**: <ul>Product node with `properties like product_id`, `name`, `price`, and `category`.</ul>
-               <ul>Customer node with properties like `customer_id`, `name`, `email`, and `purchase_history`.</ul>
-3. **Knowledge Graph**: Entity node with properties like `entity_id`, `name`, `type`, and `description`.
 
+2. **E-commerce**: <ul>Product node with `properties like product_id`, `name`, `price`, and `category`.</ul>
+   <ul>Customer node with properties like `customer_id`, `name`, `email`, and `purchase_history`.</ul>
+
+3. **Knowledge Graph**: Entity node with properties like `entity_id`, `name`, `type`, and `description`.
 
 ## Project Overview
 
-This project involves creating a simple in-memory graph database in C++. 
+This project involves creating a simple in-memory graph database in C++.
 
-The aim is to implement core functionalities such as adding and removing nodes and edges, and querying the graph. 
+The aim is to implement core functionalities such as adding and removing nodes and edges, and querying the graph.
 
 The project demonstrates:
 
@@ -57,10 +58,10 @@ The project demonstrates:
 
 ## Key Features
 
-  - Add or Remove Nodes: Functions to manage nodes in the graph.
-  - Add or Remove Edges: Functions to manage relationships between nodes.
-  - Query Neighbours: Retrieve neighbours of a specific node.
-  - Check Existence: Verify if nodes and edges exist.
+- Add or Remove Nodes: Functions to manage nodes in the graph.
+- Add or Remove Edges: Functions to manage relationships between nodes.
+- Query Neighbours: Retrieve neighbours of a specific node.
+- Check Existence: Verify if nodes and edges exist.
 
 ## Project Structure
 
