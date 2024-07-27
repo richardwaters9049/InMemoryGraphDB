@@ -6,7 +6,7 @@ Graph databases are designed to handle and query relationships between entities.
 
 Social Networks: Modeling users and their connections.
 
-Recommendation Engines: Analyzing user preferences and connections.
+Recommendation Engines: Analysing user preferences and connections.
 
 Fraud Detection: Identifying suspicious patterns and relationships.
 
