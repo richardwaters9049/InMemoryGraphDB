@@ -35,10 +35,10 @@ Nodes are connected to each other through edges, which represent relationships.
 
 Here are some examples of nodes in different contexts:
 
-1. Social Network: Person node with properties like name, age, location, and email.
-2. E-commerce: <ul>Product node with properties like product_id, name, price, and category.</ul>
+1. **Social Network**: Person node with properties like name, age, location, and email.
+2. **E-commerce**: <ul>Product node with properties like product_id, name, price, and category.</ul>
                <ul>Customer node with properties like customer_id, name, email, and purchase_history.</ul>
-3. Knowledge Graph: Entity node with properties like entity_id, name, type, and description.
+3. **Knowledge Graph**: Entity node with properties like entity_id, name, type, and description.
 
 
 Product node with properties like product_id, name, price, and category.
