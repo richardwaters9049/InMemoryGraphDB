@@ -25,8 +25,10 @@ Nodes are connected to each other through edges, which represent relationships.
 ## Key Characteristics of Nodes:
 
 1. **Identity**: Each node has a unique identifier that distinguishes it from other nodes in the graph.
+
 2. **Properties**: Nodes can have properties, which are key-value pairs. These properties store information about the node, such as attributes or characteristics.
    For example, a node representing a person might have properties like name, age, and email.
+
 3. **Labels**: Nodes can have one or more labels, which are used to group nodes into sets.
    Labels provide a way to categorize nodes, making it easier to query and manage them.
    For instance, nodes representing people might be labeled as Person, while nodes representing books might be labeled as Book.
@@ -59,8 +61,11 @@ The project demonstrates:
 ## Key Features
 
 - Add or Remove Nodes: Functions to manage nodes in the graph.
+
 - Add or Remove Edges: Functions to manage relationships between nodes.
+
 - Query Neighbours: Retrieve neighbours of a specific node.
+
 - Check Existence: Verify if nodes and edges exist.
 
 ## Project Structure
@@ -119,8 +124,11 @@ Run the Executable:
 After running the executable, the program will demonstrate the following functionalities:
 
 - Adding nodes and edges.
+
 - Removing nodes and edges.
+
 - Querying the existence of nodes and edges.
+
 - Retrieving and displaying neighbors of a node.
 
 ## Graph Database Output
