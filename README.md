@@ -2,7 +2,13 @@
 
 ## Introduction to Graph Databases
 
-Graph databases are designed to handle and query relationships between entities. Unlike traditional relational databases that use tables and rows, graph databases use nodes (entities) and edges (relationships) to model data. This structure is particularly useful for applications involving complex relationships, such as:
+Graph databases are designed to handle and query relationships between entities. Unlike traditional relational databases that use tables and rows, graph databases use nodes (entities) and edges (relationships) to model data.
+
+In short, Nodes are the building blocks of graph databases, representing entities with their attributes and labels.
+
+They are essential for modelling real-world data in a graph structure, enabling efficient querying and management of complex relationships.
+
+This structure is particularly useful for applications involving complex relationships, such as:
 
 **Social Networks**: Modeling users and their connections.
 
@@ -43,6 +49,29 @@ Here are some examples of nodes in different contexts:
    <ul>Customer node with properties like `customer_id`, `name`, `email`, and `purchase_history`.</ul>
 
 3. **Knowledge Graph**: Entity node with properties like `entity_id`, `name`, `type`, and `description`.
+
+**Example of Node Operations**:
+
+Here are some example operations you might perform on nodes in a graph database:
+
+1. **Remove a Node**
+
+```cpp
+graph.removeNode(1);
+```
+
+2. **Update a Node**
+
+```cpp
+graph.updateNode(1, {{"age", 31}});
+```
+
+3. **Query a Node**
+
+```cpp
+auto node = graph.getNode(1);
+auto neighbours = graph.getNeighbours(1);
+```
 
 ## Project Overview
 
