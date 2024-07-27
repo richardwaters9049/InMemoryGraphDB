@@ -30,8 +30,8 @@ The project demonstrates:
 
 ## Key Features
 
-- Add/Remove Nodes: Functions to manage nodes in the graph.
-- Add/Remove Edges: Functions to manage relationships between nodes.
+- Add or Remove Nodes: Functions to manage nodes in the graph.
+- Add or Remove Edges: Functions to manage relationships between nodes.
 - Query Neighbors: Retrieve neighbors of a specific node.
 - Check Existence: Verify if nodes and edges exist.
 
