@@ -41,7 +41,7 @@ Here are some examples of nodes in different contexts:
 3. **Knowledge Graph**: Entity node with properties like entity_id, name, type, and description.
 
 
-Product node with properties like product_id, name, price, and category.
+Product node with properties like product_id, name, price, and category. <br>
 Customer node with properties like customer_id, name, email, and purchase_history.
 Knowledge Graph:
 
