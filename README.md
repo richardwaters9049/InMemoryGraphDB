@@ -14,6 +14,23 @@ Network Analysis: Understanding complex networks and dependencies.
 
 The graph model allows for efficient querying and manipulation of relationships, making it an ideal choice for applications requiring deep insights into interconnected data.
 
+## Node and Edges
+
+In a graph database, nodes are the fundamental units that represent entities or objects. 
+
+Each node can hold data in the form of key-value pairs, similar to how a row in a relational database might have multiple columns. 
+
+Nodes are connected to each other through edges, which represent relationships.
+
+ - Key Characteristics of Nodes:
+  1. **Identity**: Each node has a unique identifier that distinguishes it from other nodes in the graph.
+  2. **Properties**: Nodes can have properties, which are key-value pairs. These properties store information about the node, such as attributes or characteristics.
+                     For example, a node representing a person might have properties like name, age, and email.
+  3. **Labels**: Nodes can have one or more labels, which are used to group nodes into sets.
+                 Labels provide a way to categorize nodes, making it easier to query and manage them.
+                 For instance, nodes representing people might be labeled as Person, while nodes representing books might be labeled as Book.
+
+
 ## Project Overview
 
 This project involves creating a simple in-memory graph database in C++. 
@@ -30,10 +47,10 @@ The project demonstrates:
 
 ## Key Features
 
-- Add or Remove Nodes: Functions to manage nodes in the graph.
-- Add or Remove Edges: Functions to manage relationships between nodes.
-- Query Neighbours: Retrieve neighbours of a specific node.
-- Check Existence: Verify if nodes and edges exist.
+  - Add or Remove Nodes: Functions to manage nodes in the graph.
+  - Add or Remove Edges: Functions to manage relationships between nodes.
+  - Query Neighbours: Retrieve neighbours of a specific node.
+  - Check Existence: Verify if nodes and edges exist.
 
 ## Project Structure
 
