@@ -26,7 +26,7 @@ The project demonstrates:
 
 **C++ Implementation**: Using modern C++ features to handle data efficiently.
 
-**Performance Considerations**: Implementing and optimizing data structures for effective graph operations.
+**Performance Considerations**: Implementing and optimising data structures for effective graph operations.
 
 ## Key Features
 
