@@ -54,6 +54,15 @@ InMemoryGraphDB/
 
 To build and run the project, follow these steps:
 
+Cloning the Repository
+
+First, clone the GitHub repository to your local machine:
+
+```sh
+git clone https://github.com/richardwaters9049/InMemoryGraphDB.git
+cd InMemoryGraphDB
+```
+
 Create a Build Directory and Navigate Into It
 
 ```sh
