@@ -22,7 +22,8 @@ Each node can hold data in the form of key-value pairs, similar to how a row in 
 
 Nodes are connected to each other through edges, which represent relationships.
 
- - Key Characteristics of Nodes:
+## Key Characteristics of Nodes:
+
   1. **Identity**: Each node has a unique identifier that distinguishes it from other nodes in the graph.
   2. **Properties**: Nodes can have properties, which are key-value pairs. These properties store information about the node, such as attributes or characteristics.
                      For example, a node representing a person might have properties like name, age, and email.
