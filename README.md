@@ -22,7 +22,7 @@ The aim is to implement core functionalities such as adding and removing nodes a
 
 The project demonstrates:
 
-<strong><u>Graph Management</u></strong>: How to manage nodes and edges in a graph.
+<u>Graph Management</u>: How to manage nodes and edges in a graph.
 
 **<u>C++ Implementation</u>**: Using modern C++ features to handle data efficiently.
 
