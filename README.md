@@ -50,7 +50,7 @@ Here are some examples of nodes in different contexts:
 
 3. **Knowledge Graph**: Entity node with properties like `entity_id`, `name`, `type`, and `description`.
 
-**Example of Node Operations**:
+# Example of Node Operations:
 
 Here are some example operations you might perform on nodes in a graph database:
 
