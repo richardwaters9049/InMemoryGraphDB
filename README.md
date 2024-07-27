@@ -52,37 +52,35 @@ InMemoryGraphDB/
 
 ## Building and Running the Project
 
-To build and run the project, follow these steps:
+To build and run the project, follow these steps.
 
-Cloning the Repository
-
-First, clone the GitHub repository to your local machine:
+Firstly, Clone the Repository:
 
 ```sh
 git clone https://github.com/richardwaters9049/InMemoryGraphDB.git
 cd InMemoryGraphDB
 ```
 
-Create a Build Directory and Navigate Into It
+Create a Build Directory and Navigate Into It:
 
 ```sh
 mkdir build
 cd build
 ```
 
-Run CMake to Configure the Project
+Run CMake to Configure the Project:
 
 ```sh
 cmake ..
 ```
 
-Build the Project
+Build the Project:
 
 ```sh
 make
 ```
 
-Run the Executable
+Run the Executable:
 
 ```sh
 ./InMemoryGraphDB
