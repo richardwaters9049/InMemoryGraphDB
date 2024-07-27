@@ -31,6 +31,23 @@ Nodes are connected to each other through edges, which represent relationships.
                  Labels provide a way to categorize nodes, making it easier to query and manage them.
                  For instance, nodes representing people might be labeled as Person, while nodes representing books might be labeled as Book.
 
+## Examples of Nodes:
+
+Here are some examples of nodes in different contexts:
+
+1. Social Network: Person node with properties like name, age, location, and email.
+2. E-commerce: - Product node with properties like product_id, name, price, and category.
+               - Customer node with properties like customer_id, name, email, and purchase_history.
+3. Knowledge Graph: Entity node with properties like entity_id, name, type, and description.
+
+
+Product node with properties like product_id, name, price, and category.
+Customer node with properties like customer_id, name, email, and purchase_history.
+Knowledge Graph:
+
+Entity node with properties like entity_id, name, type, and description.
+
+
 
 ## Project Overview
 
