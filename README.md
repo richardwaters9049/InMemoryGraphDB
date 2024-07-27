@@ -4,13 +4,13 @@
 
 Graph databases are designed to handle and query relationships between entities. Unlike traditional relational databases that use tables and rows, graph databases use nodes (entities) and edges (relationships) to model data. This structure is particularly useful for applications involving complex relationships, such as:
 
-Social Networks: Modeling users and their connections.
+**Social Networks**: Modeling users and their connections.
 
-Recommendation Engines: Analysing user preferences and connections.
+**Recommendation Engines**: Analysing user preferences and connections.
 
-Fraud Detection: Identifying suspicious patterns and relationships.
+**Fraud Detection**: Identifying suspicious patterns and relationships.
 
-Network Analysis: Understanding complex networks and dependencies.
+**Network Analysis**: Understanding complex networks and dependencies.
 
 The graph model allows for efficient querying and manipulation of relationships, making it an ideal choice for applications requiring deep insights into interconnected data.
 
