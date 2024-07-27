@@ -22,11 +22,11 @@ The aim is to implement core functionalities such as adding and removing nodes a
 
 The project demonstrates:
 
-Graph Management: How to manage nodes and edges in a graph.
+••Graph Management••: How to manage nodes and edges in a graph.
 
-C++ Implementation: Using modern C++ features to handle data efficiently.
+••C++ Implementation••: Using modern C++ features to handle data efficiently.
 
-Performance Considerations: Implementing and optimizing data structures for effective graph operations.
+••Performance Considerations••: Implementing and optimizing data structures for effective graph operations.
 
 ## Key Features
 
